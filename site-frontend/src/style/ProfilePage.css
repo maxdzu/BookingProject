@@ -1,0 +1,65 @@
+.profile-container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .profile-info {
+    background: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .profile-info h1 {
+    margin-bottom: 10px;
+  }
+  
+  .profile-info p {
+    font-size: 16px;
+  }
+  
+  .logout-btn {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .logout-btn:hover {
+    background: darkred;
+  }
+  
+  .login-form {
+    background: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .login-form h1 {
+    margin-bottom: 10px;
+  }
+  
+  .login-form input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .login-form button {
+    background: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .login-form button:hover {
+    background: darkgreen;
+  }
+  
